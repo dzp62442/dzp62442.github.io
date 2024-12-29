@@ -1,11 +1,27 @@
 main:
 
+  - title: "DSVT: Dynamic 3D Surround View for Tractor-Trailer Vehicles Based on Real-Time Pose Estimation with Drop Model"
+    authors: <strong>Zhipeng Dong</strong>, Mengyin Fu, Hao Liang, Chunhui Zhu, Yi Yang
+    conference_short: IROS
+    conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    paper: https://ieeexplore.ieee.org/document/10801679/
+    bibtex: ./assets/files/bibtex/DSVT_IROS_24.bib
+    image: ./assets/img/publications/DSVT_IROS_24.png
+
+  - title: "Robust Multi-Camera BEV Perception: An Image-Perceptive Approach to Counter Imprecise Camera Calibration"
+    authors: Rundong Sun, Mengyin Fu, Hao Liang, Chunhui Zhu, <strong>Zhipeng Dong</strong>, Yi Yang
+    conference_short: IROS
+    conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    paper: https://ieeexplore.ieee.org/document/10802840/
+    bibtex: ./assets/files/bibtex/Rundong_IROS_24.bib
+    image: ./assets/img/publications/DSVT_IROS_24.png
+
   - title: "Image Stitching Techniques Applied to Plane or 3-D Models: A Review"
-    authors: Mengyin Fu, Hao Liang, Chunhui Zhu, <strong>Zhipeng Dong</strong>, Rundong Sun, Yufeng Yue
-    conference_short: Sensors Journal
+    authors: Mengyin Fu, Hao Liang, Chunhui Zhu, <strong>Zhipeng Dong</strong>, Rundong Sun, Yufeng Yue, Yi Yang
+    conference_short: IEEE Sens. J.
     conference:  IEEE Sensors Journal, 2023.
     paper: https://ieeexplore.ieee.org/document/10064053/
-    bibtex: ./assets/files/survey_Sensors_Journal_23.bib
+    bibtex: ./assets/files/bibtex/survey_Sensors_Journal_23.bib
     image: ./assets/img/publications/survey_Sensors_Journal_23.png
 
   - title: "UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles"
@@ -13,6 +29,6 @@ main:
     conference_short: IROS
     conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
     paper: https://ieeexplore.ieee.org/document/10064053/
-    bibtex: ./assets/files/UVSS_IROS_23.bib
+    bibtex: ./assets/files/bibtex/UVSS_IROS_23.bib
     notes: Oral Presentation
     image: ./assets/img/publications/UVSS_IROS_23.png
