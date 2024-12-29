@@ -14,7 +14,7 @@ main:
     conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     paper: https://ieeexplore.ieee.org/document/10802840/
     bibtex: ./assets/files/bibtex/Rundong_IROS_24.bib
-    image: ./assets/img/publications/DSVT_IROS_24.png
+    image: ./assets/img/publications/Rundong_IROS_24.png
 
   - title: "Image Stitching Techniques Applied to Plane or 3-D Models: A Review"
     authors: Mengyin Fu, Hao Liang, Chunhui Zhu, <strong>Zhipeng Dong</strong>, Rundong Sun, Yufeng Yue, Yi Yang
