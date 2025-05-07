@@ -14,6 +14,7 @@ main:
     conference_short: IROS
     conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     paper: https://ieeexplore.ieee.org/document/10801679/
+    notes: Oral Presentation
     image: ./assets/img/publications/DSVT_IROS_24.png
 
   - title: "Robust Multi-Camera BEV Perception: An Image-Perceptive Approach to Counter Imprecise Camera Calibration"
@@ -21,6 +22,7 @@ main:
     conference_short: IROS
     conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     paper: https://ieeexplore.ieee.org/document/10802840/
+    notes: Oral Presentation
     image: ./assets/img/publications/Rundong_IROS_24.png
 
   - title: "Image Stitching Techniques Applied to Plane or 3-D Models: A Review"
