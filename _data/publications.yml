@@ -1,11 +1,19 @@
 main:
 
+  - title: "Unified Vertex Motion Estimation for integrated video stabilization and stitching in tractor–trailer wheeled robots"
+    authors: Hao Liang, <strong>Zhipeng Dong</strong>, Hao Li, Yufeng Yue, Mengyin Fu, Yi Yang
+    conference_short: RAS
+    conference:  Robotics and Autonomous Systems <strong>(RAS)</strong>, 2024.
+    paper: https://www.sciencedirect.com/science/article/pii/S0921889025000909
+    image: ./assets/img/publications/RAS_24.png
+    code: https://github.com/lhlawrence/UVM-VSS
+    page: https://inin-drops.github.io/UVM-VSS/
+
   - title: "DSVT: Dynamic 3D Surround View for Tractor-Trailer Vehicles Based on Real-Time Pose Estimation with Drop Model"
     authors: <strong>Zhipeng Dong</strong>, Mengyin Fu, Hao Liang, Chunhui Zhu, Yi Yang
     conference_short: IROS
     conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     paper: https://ieeexplore.ieee.org/document/10801679/
-    bibtex: ./assets/files/bibtex/DSVT_IROS_24.bib
     image: ./assets/img/publications/DSVT_IROS_24.png
 
   - title: "Robust Multi-Camera BEV Perception: An Image-Perceptive Approach to Counter Imprecise Camera Calibration"
@@ -13,7 +21,6 @@ main:
     conference_short: IROS
     conference:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
     paper: https://ieeexplore.ieee.org/document/10802840/
-    bibtex: ./assets/files/bibtex/Rundong_IROS_24.bib
     image: ./assets/img/publications/Rundong_IROS_24.png
 
   - title: "Image Stitching Techniques Applied to Plane or 3-D Models: A Review"
@@ -21,7 +28,6 @@ main:
     conference_short: IEEE Sens. J.
     conference:  IEEE Sensors Journal, 2023.
     paper: https://ieeexplore.ieee.org/document/10064053/
-    bibtex: ./assets/files/bibtex/survey_Sensors_Journal_23.bib
     image: ./assets/img/publications/survey_Sensors_Journal_23.png
 
   - title: "UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles"
@@ -29,6 +35,5 @@ main:
     conference_short: IROS
     conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
     paper: https://ieeexplore.ieee.org/document/10064053/
-    bibtex: ./assets/files/bibtex/UVSS_IROS_23.bib
     notes: Oral Presentation
     image: ./assets/img/publications/UVSS_IROS_23.png
